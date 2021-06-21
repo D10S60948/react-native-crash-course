@@ -242,6 +242,10 @@ npm config set registry https://registry.npmjs.org/
 
 Open the terminal, go into the project directory and run `npm adduser` - then add your username details.
 
+In order to publish your code to npm you should verify your mail.
+Verification message should be waiting for you in your mail's inbox.
+Click on the "Verify email address" button.
+
 Lastly, type `npm publish` to publish your code.
 
 # Using Toast
